@@ -14,7 +14,7 @@ public class App
 
         for (int i = 0; i < 4; i++) {
             String name = rnd.next();
-            System.out.println( "Hello, "+name +"!" );
+            System.out.println( "Hello, "+name +" !" );
         }
     }
 }
